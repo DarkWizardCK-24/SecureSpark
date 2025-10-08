@@ -37,7 +37,7 @@ function App() {
     return (
       <div className="min-h-screen bg-cover bg-center bg-[url('./assets/lock_background.png')] bg-opacity-30 flex items-center justify-center">
         <div className=" p-8 rounded-2xl text-center">
-          <h1 className="text-5xl font-bold text-white mt-4">PassWiz</h1>
+          <h1 className="text-5xl font-bold text-white mt-4">🔒SecureSpark</h1>
         </div>
       </div>
     );
